@@ -9,7 +9,8 @@ This project analyzes a bike sharing dataset to answer key business questions an
 ## 📈 Dashboard
 
 A user-friendly interactive dashboard was created using Streamlit to clearly present the insights from the analysis.
-![Coffee Sales Dashboard](preview.png)
+
+<img src="preview.png" alt="Coffee Sales Dashboard" width="50%"/>
 
 👉 **[Check out the dashboard here](https://submission-bike-sharing.streamlit.app/)**
 
